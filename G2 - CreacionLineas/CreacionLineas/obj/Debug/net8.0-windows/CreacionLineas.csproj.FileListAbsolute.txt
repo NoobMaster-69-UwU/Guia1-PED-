@@ -1,0 +1,16 @@
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.Form1.resources
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.csproj.GenerateResource.cache
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.GeneratedMSBuildEditorConfig.editorconfig
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.AssemblyInfoInputs.cache
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.AssemblyInfo.cs
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.csproj.CoreCompileInputs.cache
+H:\PED Guias\CreacionLineas\CreacionLineas\bin\Debug\net8.0-windows\CreacionLineas.exe
+H:\PED Guias\CreacionLineas\CreacionLineas\bin\Debug\net8.0-windows\CreacionLineas.deps.json
+H:\PED Guias\CreacionLineas\CreacionLineas\bin\Debug\net8.0-windows\CreacionLineas.runtimeconfig.json
+H:\PED Guias\CreacionLineas\CreacionLineas\bin\Debug\net8.0-windows\CreacionLineas.dll
+H:\PED Guias\CreacionLineas\CreacionLineas\bin\Debug\net8.0-windows\CreacionLineas.pdb
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.dll
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\refint\CreacionLineas.dll
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.pdb
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\CreacionLineas.genruntimeconfig.cache
+H:\PED Guias\CreacionLineas\CreacionLineas\obj\Debug\net8.0-windows\ref\CreacionLineas.dll
