@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\bin\Debug\img\Cuerpo.png
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\bin\Debug\img\Manzana.png
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\bin\Debug\Ejercicio3.exe.config
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\bin\Debug\Ejercicio3.exe
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\bin\Debug\Ejercicio3.pdb
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.exe
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.pdb
+C:\Users\HP\Downloads\UDB-PED-GUIA1_Ejercicio3-master\UDB-PED-GUIA1_Ejercicio3-master\obj\Debug\Ejercicio3.Form.resources
