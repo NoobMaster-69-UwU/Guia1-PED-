@@ -1,0 +1,32 @@
+H:\PED Guias\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+H:\PED Guias\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+H:\PED Guias\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\PED Guias\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+H:\PED Guias\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\PED Guias\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\PED Guias\G1 - CirucloCuadrado\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
